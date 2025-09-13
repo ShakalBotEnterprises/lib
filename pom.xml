@@ -7,7 +7,7 @@
     <parent>
         <groupId>mavmi.root_bom</groupId>
         <artifactId>root_bom</artifactId>
-        <version>55ae6be8892fa5d</version>
+        <version>1</version>
     </parent>
 
     <groupId>mavmi.lib</groupId>
